@@ -1,0 +1,12 @@
+{
+  "name": "scratchlab",
+  "private": true,
+  "workspaces": [
+    "mobile",
+    "web"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
